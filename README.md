@@ -1,2 +1,2 @@
-# ScratchThat
-Scratch That - Project for HackNY
+# ClownSpotter
+ClownSpotter - Project for HackNY
